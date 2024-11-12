@@ -1,0 +1,3 @@
+conflictos
+
+Resolvimos los conflictos unificando ambos cambios luego  se hizo un commit con las descripcion correspondiente y se hiso push a la rama  con dichos cambios
